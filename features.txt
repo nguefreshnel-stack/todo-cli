@@ -1,3 +1,8 @@
 - Système de login
+<<<<<<< HEAD
 - Mode hors-ligne
 - Export PDF
+=======
+- Mode hors-lignes1
+- Export PDF
+>>>>>>> 828aaafb89d19742b6fa95ff7d6e3b39249392eb
