@@ -1,3 +1,4 @@
 - Apprendre Git
 - Réviser Docker
 - Apprendre GitHub Actions
+- Tester les branches
